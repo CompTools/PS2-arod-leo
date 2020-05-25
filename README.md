@@ -7,7 +7,7 @@ You should work in groups of 2 to 4 (not alone and not more than 4). If this is 
 ### Please enter the names of the group members here:
 1. Arod Polanco
 1. Leonardo Guerra
-1. 
+1. Yan Pacheco
 1. 
 
 ## Due date
